@@ -1,1 +1,1 @@
-# exchange rate usd
+# exchange rate usd bot
